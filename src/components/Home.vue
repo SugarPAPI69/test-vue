@@ -8,7 +8,7 @@
       </div>
       <div class="menu-item">
         <div class="menu-text">
-          Skating
+          Metacritic Scores
         </div>
       </div>
       <div class="menu-item menu-center">
