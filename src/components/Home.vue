@@ -27,16 +27,16 @@
     </div>
     <div class="name">
       <div class="letter">
-        <img src="../assets/img/K.png" class="letter-image">
+        <img src="../assets/img/crash.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/Y.png" class="letter-image">
+        <img src="../assets/img/drake.png" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/L.png" class="letter-image">
+        <img src="../assets/img/gta.jpg" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/I.png" class="letter-image">
+        <img src="../assets/img/pacman.jpg" class="letter-image">
       </div>
       <div class="letter">
         <img src="../assets/img/E.png" class="letter-image">
