@@ -3,7 +3,7 @@
     <div class="menu">
       <div class="menu-item">
         <div class="menu-text">
-          Resume
+          Rate
         </div>
       </div>
       <div class="menu-item">
@@ -12,19 +12,21 @@
         </div>
       </div>
       <div class="menu-item menu-center">
-        Kylie Ying
+        Video Game Rating System
       </div>
       <div class="menu-item">
         <div class="menu-text">
-          YouTube
+          YouTube Gameplays
         </div>
       </div>
       <div class="menu-item">
         <div class="menu-text">
-          About
+          Our Picks
         </div>
       </div>
     </div>
+  
+
     <div class="name">
       <div class="letter">
         <img src="../assets/img/crash.png" class="letter-image">
@@ -39,9 +41,11 @@
         <img src="../assets/img/pacman.jpg" class="letter-image">
       </div>
       <div class="letter">
-        <img src="../assets/img/E.png" class="letter-image">
+        <img src="../assets/img/lol.jpg" class="letter-image">
       </div>
+      
     </div>
+    
   </div>
 </template>
 
